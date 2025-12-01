@@ -81,21 +81,5 @@ An **IoT-based Industrial Fault Monitoring System** designed to detect and repor
 | High Temperature  | Temp > set limit (e.g., 40°C)          |
 | Unauthorized Entry| Motion detected during off-hours       |
 
-## 📷 Screenshots
 
-*(Add screenshots of your circuit and dashboard UI here)*
 
-## 🧠 Future Improvements
-
-- Email/SMS alert system
-- Logging & analytics
-- Mobile app integration
-- Automatic shutdown mechanism
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
-> Made with ❤️ for safer industrial environments.
